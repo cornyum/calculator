@@ -16,6 +16,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam);
 BOOL InitInstance(HINSTANCE hInstance, int nCmdShow);
 ATOM MyRegisterClass(HINSTANCE hInstance);
 
+
 int WINAPI WinMain(HINSTANCE hInstance,HINSTANCE hPrevInstance,PSTR lpCmdLine,int nCmdShow) {
 	MSG msg;
 	
