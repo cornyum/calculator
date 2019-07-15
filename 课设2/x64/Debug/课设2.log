@@ -1,0 +1,12 @@
+﻿  stack.cpp
+  ProcducEdit.cpp
+  main.cpp
+c:\users\yuming\desktop\简单计算器\课设2\main.cpp(111): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+c:\users\yuming\desktop\简单计算器\课设2\main.cpp(111): error C2660: “CreateWindowExW”: 函数不接受 11 个参数
+c:\users\yuming\desktop\简单计算器\课设2\main.cpp(120): error C2065: “GWL_HINSTANCE”: 未声明的标识符
+c:\users\yuming\desktop\简单计算器\课设2\main.cpp(120): error C2660: “CreateWindowExW”: 函数不接受 11 个参数
+  calculation.cpp
+c:\users\yuming\desktop\简单计算器\课设2\calculation.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\yuming\desktop\简单计算器\课设2\calculation.cpp(85): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+c:\users\yuming\desktop\简单计算器\课设2\calculation.cpp(72): warning C4172: 返回局部变量或临时变量的地址
